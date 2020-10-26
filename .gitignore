@@ -7,3 +7,5 @@ target/
 .gitignore
 src/test/
 target/generated-sources/
+.idea
+.idea
